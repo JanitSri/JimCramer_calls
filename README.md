@@ -4,7 +4,7 @@ This code starts with a raw dataset of Jim Crammer's stock calls gotten from the
 related to the dataset. The workflow for this project was:
 
 1. Get the raw data
-    - # https://madmoney.thestreet.com/screener/index.cfm?showview=stocks&showrows=25000, this was just copied and pasted into excel
+    - https://madmoney.thestreet.com/screener/index.cfm?showview=stocks&showrows=25000, this was just copied and pasted into excel
     - consist of Company Name (ticker), Date of the call, Segement the call was made on, the price of the company at the time of the call  
     - rawdata.xlsx
 
